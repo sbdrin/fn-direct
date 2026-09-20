@@ -1,0 +1,10 @@
+appname=zhilian
+version=1.0.7
+display_name=直链
+desc=域名访问时一键跳转 IP 直连；IP 访问时在窗口内展示可访问服务列表，点击新标签打开。
+source=thirdparty
+platform=x86
+maintainer=zhilian
+distributor=zhilian
+desktop_uidir=ui
+desktop_applaunchname=zhilian.Application

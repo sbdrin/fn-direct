@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# 直链 — 无后台服务，仅满足生命周期接口。
+#
+case "$1" in
+    start)  exit 0 ;;
+    stop)   exit 0 ;;
+    status) exit 0 ;;
+    *)      exit 1 ;;
+esac

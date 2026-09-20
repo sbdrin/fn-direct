@@ -1,0 +1,14 @@
+#!/bin/bash
+#
+# 安装后确保 CGI 入口可执行。
+#
+set -euo pipefail
+
+APPDEST="${TRIM_APPDEST:-/var/apps/zhilian}"
+CGI="${APPDEST}/ui/index.cgi"
+
+if [ -f "$CGI" ]; then
+    chmod 755 "$CGI"
+fi
+
+exit 0
