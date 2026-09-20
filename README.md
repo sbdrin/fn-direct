@@ -1,6 +1,8 @@
 # 直链 — 飞牛 fnOS 原生 FPK
 
 轻量飞牛应用：安装后桌面出现 **直链** 图标。
+<img width="1116" height="737" alt="image" src="https://github.com/user-attachments/assets/b536d9d8-61be-4ffb-8289-b33fa80b669c" />
+
 
 ## 行为
 
