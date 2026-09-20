@@ -1,8 +1,6 @@
 # 直链 — 飞牛 fnOS 原生 FPK
 
 轻量飞牛应用：安装后桌面出现 **直链** 图标。
-<img width="1116" height="737" alt="image" src="https://github.com/user-attachments/assets/b536d9d8-61be-4ffb-8289-b33fa80b669c" />
-
 
 ## 行为
 
@@ -10,6 +8,7 @@
 |-------------|-----------|
 | **域名**（DDNS / FN ID / 反代等） | 自动跳转到对应内网/公网 IP 的 `5566` 端口 |
 | **IP 直连** | 在窗口内列出端口 ≥ 7000 的可访问地址，点击新标签打开 |
+<img width="1116" height="737" alt="image" src="https://github.com/user-attachments/assets/b536d9d8-61be-4ffb-8289-b33fa80b669c" />
 
 ## 工作原理
 
